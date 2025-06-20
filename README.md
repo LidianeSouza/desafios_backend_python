@@ -1,10 +1,8 @@
 # 🐍 Desafios de Código - Bootcamp Back-End com Python
 
-Este repositório reúne os desafios propostos durante o **Bootcamp Back-End com Python - Santander**, oferecido pela [DIO](https://www.dio.me/).  
-Aqui estão soluções simples e objetivas para exercícios práticos, focados no desenvolvimento das habilidades de lógica e programação com Python.
+Este repositório reúne os desafios propostos durante o **Bootcamp Back-End com Python - Santander**, oferecido pela [DIO](https://www.dio.me/). Aqui estão soluções simples e objetivas para exercícios práticos, focados no desenvolvimento das habilidades de lógica e programação com Python.
 
 > 💡 Cada desafio foi resolvido com foco no aprendizado e evolução da lógica de programação.  
-> 🚧 *Este repositório está em desenvolvimento. Em breve, mais desafios serão adicionados!*
 
 ---
 
@@ -19,7 +17,7 @@ Aqui estão soluções simples e objetivas para exercícios práticos, focados n
 
 ## 🚀 Desafios Incluídos
 
-> 🚧 *Em desenvolvimento: Novos desafios serão adicionados conforme avanço no bootcamp. Fique de olho neste repositório!*
+> ℹ️ **Dica:** Clique nos títulos abaixo para revelar os detalhes de cada desafio.
 
 <details>
   <summary>💸 <strong>Cálculo de Descontos em Loja</strong></summary>
@@ -50,6 +48,8 @@ Aqui estão soluções simples e objetivas para exercícios práticos, focados n
   <summary>📧 <strong>Validação de E-mails</strong></summary>
   Verifica se um endereço de e-mail segue regras básicas de formato: presença do "@" e ausência de espaços.
 </details>
+
+> 🚧 *Este repositório está em desenvolvimento. Em breve, mais desafios serão adicionados!*
 
 ---
 
@@ -82,6 +82,8 @@ Aqui estão soluções simples e objetivas para exercícios práticos, focados n
 | 🏥 Atendimento Médico          | [Enunciado - Atendimento](./desafios/atendimento_medico.md)                           | [Código - Atendimento](./codigos/codigo_atendimento_medico.py)                   | <a href="./imagens/atendimento.png" target="_blank"><img src="./imagens/atendimento.png" width="120"/></a><br><a href="./imagens/atendimento1.png" target="_blank"><img src="./imagens/atendimento1.png" width="120"/></a>                                                  |
 | 🏨 Reservas de Pousada         | [Enunciado - Reservas](./desafios/reservas_pousada.md)                                | [Código - Reservas](./codigos/codigo_reservas_pousada.py)                         | <a href="./imagens/reservas.png" target="_blank"><img src="./imagens/reservas.png" width="120"/></a>                                                        |
 | 📧 Validação de E-mail         | [Enunciado - E-mail](./desafios/validacao_email.md)                                   | [Código - E-mail](./codigos/codigo_validacao_email.py)                            | <a href="./imagens/email.png" target="_blank"><img src="./imagens/email.png" width="120"/></a>                                                              |
+
+📸 Clique nas miniaturas na coluna “Execução” para visualizar as imagens em tamanho original.
 
 ---
 
