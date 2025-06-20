@@ -57,17 +57,17 @@ Este repositório reúne os desafios propostos durante o **Bootcamp Back-End com
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/LidianeSouza/desafios_backend_python
    ```
 
 2. Acesse a pasta dos códigos:
    ```bash
-   cd BACK-END COM PYTHON - DESAFIOS DE CÓDIGO/codigos
+   cd desafios_backend_python
    ```
 
 3. Execute o arquivo que quiser testar:
    ```bash
-   python nome_do_arquivo.py
+   python nome_do_arquivo.py # Exemplo: python codigo_calculo_desconto_loja.py
    ```
 
 ---
